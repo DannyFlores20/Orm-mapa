@@ -11,7 +11,7 @@
   "keywords": [
     "js"
   ],
-  "author": "marlon",
+  "author": "danny",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
